@@ -1,29 +1,124 @@
+---
+bibliography: references.bib
+---
+
 # Demokratie
 
 ## Begriff
 
-Der Begriff Demokratie stammt etymologisch aus dem Altgriechischen und setzt sich aus den Wörtern *demos* für das Volk und *kratein* für herrschen zusammen [@haus_grundlagen_2023; @frevel_demokratie_2025]. In der antiken Staatstheorie, etwa bei Aristoteles, wurde die Demokratie als eine Herrschaftsform der Vielen von der Monarchie als Herrschaft eines Einzelnen und der Aristokratie beziehungsweise Oligarchie als Herrschaft weniger Privilegierter abgegrenzt [@haus_grundlagen_2023; @frevel_demokratie_2025]. Dabei war die Demokratie als Regierungsform nicht unbedingt positv konnotiert [@haus_grundlagen_2023]. 
+Der Begriff Demokratie stammt etymologisch aus dem Altgriechischen und setzt sich aus den Wörtern *demos* für das Volk und *kratein* für herrschen zusammen [@haus_grundlagen_2023; @frevel_demokratie_2025]. In der antiken Staatstheorie, etwa bei Aristoteles, wurde die Demokratie als eine Herrschaftsform der Vielen von der Monarchie als Herrschaft eines Einzelnen und der Aristokratie beziehungsweise Oligarchie als Herrschaft weniger Privilegierter abgegrenzt [@haus_grundlagen_2023; @frevel_demokratie_2025]. Dabei war die Demokratie als Regierungsform nicht unbedingt positv konnotiert [@haus_grundlagen_2023].
 
+Ein klassisches und bis heute einflussreiches politisches Leitbild für die moderne Demokratie formulierte der Präsident der Vereinigten Staaten von Amerika Abraham Lincoln mit der Beschreibung als eine *Regierung aus dem Volk, durch das Volk und für das Volk* [@frevel_demokratie_2025]. Trotz dieser anschaulichen Grundformel existiert in den Rechts- und Politikwissenschaften keine einzelne allgemeingültige oder starr fixierte Definition des Demokratiebegriffs, da sich das genaue Verständnis von Demokratie im Laufe der Geschichte stetig weiterentwickelt hat und je nach theoretischer Ausrichtung unterschiedliche Schwerpunkte gesetzt werden .
 
-Ein klassisches und bis heute einflussreiches politisches Leitbild für die moderne Demokratie formulierte der Präsident der Vereinigten Staaten von Amerika Abraham Lincoln mit der Beschreibung als eine *Regierung aus dem Volk, durch das Volk und für das Volk* [@frevel_demokratie_2025]. Trotz dieser anschaulichen Grundformel existiert in den Rechts- und Politikwissenschaften keine einzelne allgemeingültige oder starr fixierte Definition des Demokratiebegriffs, da sich das genaue Verständnis von Demokratie im Laufe der Geschichte stetig weiterentwickelt hat und je nach theoretischer Ausrichtung unterschiedliche Schwerpunkte gesetzt werden . 
+In der modernen Politikwissenschaft werden verfahrensorientierte Minimaldefinitionen und erweiterte Kriterienkataloge unterschieden . Minimalistische Ansätze, wie etwa jener von Joseph Schumpeter, begreifen die Demokratie vor allem als ein geregeltes Verfahren zur Auswahl von Führungseliten durch freien politischen Wettbewerb und regelmäßige Wahlen . Weitergehende Ansätze, wie das Konzept der Polyarchie nach Robert Dahl, betonen, dass Wahlen allein nicht ausreichen . Eine funktionierende Demokratie erfordert vielmehr ein Bündel institutionalisierter Rechte und Garantien, zu denen das allgemeine Wahlrecht, die Meinungs-, Informations- und Organisationsfreiheit, der Schutz von Minderheiten sowie eine wirksame Kontrolle der Regierenden gehören .
 
-[Auch Verweis auf V-Dem?]::
+Die Wissenschaft fasst den Kern moderner demokratischer Systeme häufig in den drei Grundprinzipien Freiheit, Gleichheit und Kontrolle zusammen . *Freiheit* garantiert den Schutz der individuellen Bürgerrechte und die Privatautonomie vor staatlicher Willkür . *Gleichheit* bezieht sich primär auf die rechtliche und politische Gleichstellung aller Bürgerinnen und Bürger im Entscheidungsprozess . *Kontrolle* meint die Begrenzung staatlicher Macht durch die Rechtsstaatlichkeit, die horizontale Gewaltenteilung zwischen Exekutive, Legislative und Judikative sowie die vertikale Kontrolle durch Wahlen und Bürgerbeteiligung .
 
-In der modernen Politikwissenschaft werden verfahrensorientierte Minimaldefinitionen und erweiterte Kriterienkataloge unterschieden . Minimalistische Ansätze, wie etwa jener von Joseph Schumpeter, begreifen die Demokratie vor allem als ein geregeltes Verfahren zur Auswahl von Führungseliten durch freien politischen Wettbewerb und regelmäßige Wahlen . Weitergehende Ansätze, wie das Konzept der Polyarchie nach Robert Dahl, betonen, dass Wahlen allein nicht ausreichen . Eine funktionierende Demokratie erfordert vielmehr ein Bündel institutionalisierter Rechte und Garantien, zu denen das allgemeine Wahlrecht, die Meinungs-, Informations- und Organisationsfreiheit, der Schutz von Minderheiten sowie eine wirksame Kontrolle der Regierenden gehören . 
-
-Die Wissenschaft fasst den Kern moderner demokratischer Systeme häufig in den drei Grundprinzipien Freiheit, Gleichheit und Kontrolle zusammen . *Freiheit* garantiert den Schutz der individuellen Bürgerrechte und die Privatautonomie vor staatlicher Willkür . *Gleichheit* bezieht sich primär auf die rechtliche und politische Gleichstellung aller Bürgerinnen und Bürger im Entscheidungsprozess . *Kontrolle* meint die Begrenzung staatlicher Macht durch die Rechtsstaatlichkeit, die horizontale Gewaltenteilung zwischen Exekutive, Legislative und Judikative sowie die vertikale Kontrolle durch Wahlen und Bürgerbeteiligung . 
-
-Ein grundlegendes Prinzip moderner Demokratien ist die Volkssouveränität, wonach die gesamte Staatsgewalt vom Volk ausgeht und durch dessen Zustimmung legitimiert wird . Während in der antiken athenischen Demokratie Entscheidungen direkt von den Vollbürgern in Volksversammlungen getroffen wurden, sind fast alle modernen Staaten als repräsentative Demokratien organisiert . Die repräsentative Demokratie stellt einen pragmatischen Kompromiss zwischen dem Anspruch der Volksherrschaft und den Notwendigkeiten komplexer Flächenstaaten dar . Die Bürgerinnen und Bürger üben die Staatsgewalt in der Regel nicht selbst aus, sondern wählen auf Zeit Vertreterinnen und Vertreter in Parlamente, die stellvertretend Gesetze beschließen und die Regierung kontrollieren . Zur theoretischen Erfassung der Funktionsweise von Demokratien wird zudem zwischen einer Input- und einer Output-Dimension unterschieden . Die Input-Seite betrifft die politische Gleichheit bei der Teilhabe am Willensbildungsprozess und die Möglichkeiten der Bürger zur Einflussnahme . Die Output-Seite beschreibt die Fähigkeit des politischen Systems, kollektiv verbindliche Entscheidungen zu treffen, die am Gemeinwohl orientiert sind und gesellschaftliche Probleme wirksam lösen . Darüber hinaus existiert eine Vielzahl normativer Demokratiemodelle, die unterschiedliche gesellschaftliche Werte in den Vordergrund rücken . Das liberale Modell betont den Vorrang individueller Freiheitsrechte, den Pluralismus sowie den Schutz des Einzelnen und der Minderheiten vor staatlichen Übergriffen oder Mehrheitsentscheidungen . Das republikanische beziehungsweise partizipative Modell hebt demgegenüber die aktive Bürgerschaft und die direkte kommunikative Mitgestaltung des Gemeinwesens als Wert an sich hervor . 
+Ein grundlegendes Prinzip moderner Demokratien ist die Volkssouveränität, wonach die gesamte Staatsgewalt vom Volk ausgeht und durch dessen Zustimmung legitimiert wird . Während in der antiken athenischen Demokratie Entscheidungen direkt von den Vollbürgern in Volksversammlungen getroffen wurden, sind fast alle modernen Staaten als repräsentative Demokratien organisiert . Die repräsentative Demokratie stellt einen pragmatischen Kompromiss zwischen dem Anspruch der Volksherrschaft und den Notwendigkeiten komplexer Flächenstaaten dar . Die Bürgerinnen und Bürger üben die Staatsgewalt in der Regel nicht selbst aus, sondern wählen auf Zeit Vertreterinnen und Vertreter in Parlamente, die stellvertretend Gesetze beschließen und die Regierung kontrollieren . Zur theoretischen Erfassung der Funktionsweise von Demokratien wird zudem zwischen einer Input- und einer Output-Dimension unterschieden . Die Input-Seite betrifft die politische Gleichheit bei der Teilhabe am Willensbildungsprozess und die Möglichkeiten der Bürger zur Einflussnahme . Die Output-Seite beschreibt die Fähigkeit des politischen Systems, kollektiv verbindliche Entscheidungen zu treffen, die am Gemeinwohl orientiert sind und gesellschaftliche Probleme wirksam lösen . Darüber hinaus existiert eine Vielzahl normativer Demokratiemodelle, die unterschiedliche gesellschaftliche Werte in den Vordergrund rücken . Das liberale Modell betont den Vorrang individueller Freiheitsrechte, den Pluralismus sowie den Schutz des Einzelnen und der Minderheiten vor staatlichen Übergriffen oder Mehrheitsentscheidungen . Das republikanische beziehungsweise partizipative Modell hebt demgegenüber die aktive Bürgerschaft und die direkte kommunikative Mitgestaltung des Gemeinwesens als Wert an sich hervor .
 
 Im deliberativen Demokratiemodell, das maßgeblich von Jürgen Habermas geprägt wurde, steht der gewaltfreie argumentative Diskurs im Zentrum, durch den Bürgerinnen und Bürger im öffentlichen Raum vernünftige Konsense aushandeln und staatliches Handeln legitimieren . Soziale oder sozialistische Demokratiemodelle fordern neben der formalen politischen Gleichheit auch eine aktive soziale Umverteilung und staatliche Absicherung, um sozioökonomische Ungleichheiten auszugleichen und allen Mitgliedern der Gesellschaft eine reale Teilhabe zu ermöglichen . Radikale und agonistische Demokratietheorien vergewissern sich der ständigen Veränderbarkeit gesellschaftlicher Ordnungen und begreifen Demokratie nicht als statischen Konsens, sondern als den friedlichen und institutionell eingehegten Kampf um gesellschaftliche Macht und gegenseitig anerkannte Positionen . Ein wesentliches Merkmal moderner Demokratien ist der gesellschaftliche und politische Pluralismus . Dieser erkennt an, dass in einer freien Gesellschaft eine Vielfalt unterschiedlicher Interessen, Meinungen und Lebensentwürfe existiert, die vom Staat weder unterdrückt noch vereinheitlicht werden dürfen . Der politische Pluralismus drückt sich insbesondere im Parteiensystem aus, in dem mehrere Parteien im freien Wettbewerb um die Gunst der Wählerinnen und Wähler werben . Zudem beruht das demokratische System auf der Verankerung in der Rechtsstaatlichkeit, die Behörden und Gesetzgeber an das bestehende Recht und Grundrechte bindet . In der zeitgenössischen Diskussion wird Demokratie schließlich nicht als starrer Endzustand verstanden, sondern als dynamischer und lernfähiger Prozess, der ständigen internen und externen Herausforderungen wie Globalisierung, Polarisierung oder Populismus ausgesetzt ist und seine Resilienz durch Anpassung und Reformen immer wieder aufs Neue beweisen muss .
-
 
 ## Zur Geschichte
 
 ## Ausprägungen
 
-## Funktionen der Demokratie
+## Die doppelte Befriedungsleistung der Demokratie
+
+Menschliches Zusammenleben ist naturgemäß von unterschiedlichen Wahrnehmungen, Interessen und Überzeugungen geprägt, woraus unvermeidbar Konflikte erwachsen. Politik lässt sich in diesem Zusammenhang als der Versuch begreifen, diese gesellschaftliche Spannung in geregelte, friedliche Bahnen zu lenken und verbindliche Spielregeln für das Zusammenleben bereitzustellen [@haus_grundlagen_2023]. Die demokratische Ordnung steht dabei vor der Aufgabe, einen *doppelten Konflikt* zu befrieden, der sich sowohl auf der *vertikalen* Achse zwischen der Bevölkerung und den Regierenden als auch auf der *horizontalen* Achse innerhalb der Gesellschaft erstreckt.
+
+### Der vertikale Konklikt
+
+Der erste Teil dieser doppelten Befriedungsaufgabe betrifft das Spannungsverhältnis zwischen dem Volk als dem ursprünglichen Träger der Souveränität und den Inhabern der staatlichen Macht. In einer repräsentativen Demokratie übertragen die Bürgerinnen und Bürger die Befugnis zu kollektiv verbindlichen Entscheidungen auf Zeit an gewählte Vertreterinnen und Vertreter [@haus_grundlagen_2023; @frevel_demokratie_2025]. Hierbei besteht stets das Risiko, dass Regierende ihre Macht missbrauchen, Sonderinteressen verfolgen oder sich vom Wählerwillen entfremden.
+
+Demokratien vertrauen in diesem Zusammenhang typischerweise nicht auf die disziplinierende Wirkung von Wahlen, sondern begegnen diesem vertikalen Macht- und Steuerungsüberschuss durch verfassungsrechtlicher Einhegungen [@haus_grundlagen_2023; @frevel_demokratie_2025]. Als Disziplinierungsinstrument werden periodisch stattfindende Wahlen ergänzt durch institutionelle Gewaltenteilung, strikte Rechtsstaatlichkeit und die Garantie einklagbarer Grundrechte. Dadurch soll sichergestellt oder zumindest wahrscheinlicher werden, dass die Regierung der fortlaufenden Kontrolle, Rechenschaftspflicht und Sanktionierung durch die Bürgerschaft unterliegt und nur im Rahmen zugestandener Handlungsrechte agiert [@haus_grundlagen_2023; @frevel_demokratie_2025].
+
+Das demokratische Verfahren verwandelt somit die einseitig ausgeübte Herrschaftsgewalt in eine durch Rückkopplung und Legitimationsbeschaffung rechtsförmig begrenzte und potenziell fragile Vertrauensbeziehung zwischen Staatsgewalt und Volk [@haus_grundlagen_2023; @furtak_demokratische_2018].
+
+### Der horizontale Konflikt
+
+Der zweite Teil der Herausforderung liegt in der Befriedung der gegensätzlichen Interessen, Weltanschauungen und Werthaltungen *innerhalb* der Bevölkerung selbst. Ausgangspunkt des demokratischen Pluralismus ist die Einsicht, dass die Gesellschaft nicht homogen ist, sondern durch eine Vielfalt konkurrierender Bedürfnisse und Lebensentwürfe strukturiert wird [@haus_grundlagen_2023; @frevel_demokratie_2025]. Unterschiede in Befähigungen, Eigentumsverhältnissen, religiösen oder ideologischen Überzeugungen führen zu fortwährenden Verteilungskämpfen und politischen Meinungsverschiedenheiten [@haus_grundlagen_2023; @frevel_demokratie_2025].
+
+Anstatt diese Vielfalt durch staatlichen Zwang zu unterdrücken oder einen einheitlichen Volkswillen vorzutäuschen, setzt die Demokratie die Möglichkeit und Zulässigkeit dieser Vielfalt voraus. Wenn nicht von vornherein schon definiert ist, was zu tun ist, ist diese Vielfalt eine Chance zum Entdecken guter Lösungen. Außerdem definiert ja erst diese Vielfalt das zu lösende Problem und seine Nebenbedingungen [@frevel_demokratie_2025].
+
+Sie stellt Verfahren wie den parlamentarischen Diskurs, Parteienwettbewerb, Verhandlungsstrukturen und freie Wahlen bereit, um gegensätzliche Ansprüche zu artikulieren, friedlich gegeneinander abzuwägen und im Wege von Kompromissen zu regeln und somit zu befrieden [@haus_grundlagen_2023; @frevel_demokratie_2025].
+
+Diese doppelte Friedensstiftung wird im Zuge fortschreitender gesellschaftlicher Differenzierung und Singularisierung im 21. Jahrhundert zunehmend komplexer. Die Zunahme unterschiedlicher Lebensmodelle, kultureller Herkunftsgeschichten und Wertehaltungen führt zu einer Vervielfachung von Konfliktlinien, die sich nicht mehr allein auf klassische ökonomische Verteilungskämpfe zwischen Kapital und Arbeit beschränken lassen [@frevel_demokratie_2025].
+
+Zu den materiellen Interessengegensätzen treten verstärkt unteilbare, kulturelle und identitäre Konflikte hinzu, bei denen es um Fragen von Anerkennung, Moral und Zugehörigkeit geht. Während materielle Konflikte meist durch Verhandlungen und Kompromisse über ein Mehr oder Weniger geregelt werden können, neigen kulturelle Auseinandersetzungen zu einer Verabsolutierung von Standpunkten, was die Suche nach tragfähigen Konsensen erschwert.
+
+Wenn sich im Kontext dieser steigenden Heterogenität unterschiedliche Trennlinien zu einem einzigen bipolaren Großkonflikt verdichten, droht der Übergang von einem befruchtenden Pluralismus zu einer problematischen Polarisierung. In einer solchen Konstellation stehen sich gesellschaftliche Gruppen nicht mehr als respektierte politische Gegner gegenüber, sondern betrachten einander als existenzielle Feinde. Zudem könnten populistische Strategien verfangen, die gesellschaftliche Komplexität zu leugnen, indem sie einen angeblich homogenen Volkswillen konstruieren und abweichende Minderheitenpositionen als unberechtigt entwerten. Dadurch gerieten dann sowohl die vertikale Befriedung – durch Angriffe auf rechtsstaatliche Kontrollinstanzen und Minderheitenrechte – als auch die horizontale Befriedung aus dem Gleichgewicht [@frevel_demokratie_2025; @haus_grundlagen_2023].
+
+Um diesen doppelten Konflikt auch unter den Bedingungen hoher gesellschaftlicher Diversität erfolgreich zu bearbeiten, bleibt die Demokratie auf funktionierende intermediäre Strukturen wie Parteien, Verbände und eine breite Zivilgesellschaft angewiesen, die Interessen bündeln und vermitteln. Darüber hinaus erfordert die Resilienz des demokratischen Systems das Vorhandensein einer lebendigen Streitkultur, die den Widerspruch nicht als Bedrohung, sondern als notwendiges Instrument der gegenseitigen Aufklärung und Meinungsbildung begreift. Zugleich müssen Bürgerinnen und Bürger sowie politische Akteure von einem grundlegenden Konsens über das Unabstimmbare getragen werden, der die unantastbare Würde aller Menschen, die universellen Grundrechte und die Akzeptanz demokratischer Spielregeln umfasst. Auf dieser Basis kann es der Demokratie gelingen, staatliche Macht wirksam einzuhegen und gesellschaftliche Heterogenität nicht als Gefahr der Zersplitterung, sondern als Potenzial für dauerhafte gesellschaftliche Erneuerung und friedliche Koexistenz zu nutzen.
 
 ## Demokratie, Rechsstaat und Grundrechte
+
+## Verbreitung und Qualität der Demokratie
+
+```{r}
+#| message: false
+#| warning: false
+
+
+# 1. Benötigte Pakete installieren & laden
+if (!require("devtools")) install.packages("devtools")
+if (!require("vdemdata")) devtools::install_github("vdeminstitute/vdemdata")
+if (!require("tidyverse")) install.packages("tidyverse")
+if (!require("sf")) install.packages("sf")
+if (!require("rnaturalearth")) install.packages("rnaturalearth")
+if (!require("rnaturalearthdata")) install.packages("rnaturalearthdata")
+
+library(vdemdata)
+library(tidyverse)
+library(sf)
+library(rnaturalearth)
+
+# 2. Weltkarten-Geodaten laden (sf-Objekt)
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+# 3. V-Dem Daten filtern (aktuellstes Jahr, z.B. 2023 oder 2024)
+vdem_latest <- vdemdata::vdem %>%
+  filter(year == max(year)) %>%
+  select(
+    iso3c = country_text_id, # ISO-3 Code zur eindeutigen Verknüpfung
+    country_name,
+    year,
+    v2x_libdem,   # Liberal Democracy Index
+    v2x_polyarchy # Electoral Democracy Index
+  )
+
+# 4. Geodaten mit V-Dem Indikator zusammenführen (Left Join)
+map_data <- world %>%
+  left_join(vdem_latest, by = c("iso_a3" = "iso3c"))
+
+# 5. Weltkarte mit ggplot2 & geom_sf() erstellen
+ggplot(data = map_data) +
+  geom_sf(aes(fill = v2x_libdem), color = "white", size = 0.1) +
+  scale_fill_viridis_c(
+    option = "magma",         # Farbskala: "magma", "viridis", "plasma" oder "inferno"
+    na.value = "grey85",      # Farbe für Länder ohne V-Dem Daten
+    limits = c(0, 1),
+    breaks = seq(0, 1, 0.2),
+    name = "Indexwert"
+  ) +
+  coord_sf(#crs = "+proj=moll"
+    ) + # Mollweide-Projektion (flächengetreu)
+  labs(
+    title = "Ausmaß der Demokratie weltweit",
+    subtitle = paste("Gemessen am Liberal Democracy Index (V-Dem, Jahr:", max(vdem_latest$year), ")"),
+    caption = "Quelle: Varieties of Democracy (V-Dem) Institute | Visualisierung: ggplot2",
+    x = NULL,
+    y = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
+    plot.subtitle = element_text(size = 11, hjust = 0.5, margin = margin(b = 10)),
+    legend.position = "bottom",
+    legend.key.width = unit(2, "cm"),
+    legend.title = element_text(vjust = 0.85),
+    panel.background = element_rect(fill = "aliceblue", color = NA), # Ozean-Hintergrund
+    panel.grid.major = element_line(color = "white", size = 0.2)
+  )
+```
 
 ## Probleme
