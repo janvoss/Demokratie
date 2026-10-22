@@ -14,4 +14,6 @@ generate_svg(qr, filename = "qr-titel.svg")
 | [https://janvoss.github.io/Demokratie](https://janvoss.github.io/Demokratie)  |    ![](qr-titel.svg){width="30%"}              |
 
 
-# Titel {-}
+# Über dieses Buch {-}
+
+{{< lipsum 3 >}}
