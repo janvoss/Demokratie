@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Demokratie, Ökonomie und Recht"
+  subtitle: "Eine Einführung" 
+  author: "Jan S. Voßwinkel"
+#  language:  _language.yml
+  repo-url: https://github.com/janvoss/Demokratie.git
+
+  chapters:
+    - index.qmd
+    - Demokratie.qmd
+    - Oekonomie.qmd
+    - Recht.qmd
+    - Literatur.qmd
+
+bibliography: Demokratie.bib
+csl: dresden.csl #Ohne funktioniert es gut, mit nicht. 
+# Aber warum? Und was ist mit Herausgeberwerken (Hrsg vs. Ed?)
+lang: de
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    code-overflow: wrap
+    
+
+editor: source
+

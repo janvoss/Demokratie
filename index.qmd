@@ -1,0 +1,17 @@
+
+```{r qr,  echo=FALSE, warning=FALSE}
+library(qrcode)
+
+qr <- qr_code('https://janvoss.github.io/Demokratie')
+#plot(qr)
+
+generate_svg(qr, filename = "qr-titel.svg")
+
+```
+
+|       ${}$        |  ${}$  |
+|:-----------------:|:--------------------------------------------------:|
+| [https://janvoss.github.io/Demokratie](https://janvoss.github.io/Demokratie)  |    ![](qr-titel.svg){width="30%"}              |
+
+
+# Titel {-}
