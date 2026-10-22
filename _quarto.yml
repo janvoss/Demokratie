@@ -22,6 +22,7 @@ csl: dresden.csl #Ohne funktioniert es gut, mit nicht.
 lang: de
 
 format:
+#  typst: default
   html:
     theme: cosmo
     code-fold: true
