@@ -26,6 +26,7 @@ format:
 #  typst: default
   html:
     theme: cosmo
+#    mainfont: "Libertinus Serif"
     code-fold: true
     code-overflow: wrap
     
