@@ -15,6 +15,7 @@ book:
     - Demokratie.qmd
     - Oekonomie.qmd
     - Recht.qmd
+    - Gemeinsam.qmd
     - references.qmd
 
 bibliography: references.bib

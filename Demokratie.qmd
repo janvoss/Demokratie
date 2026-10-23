@@ -127,6 +127,11 @@ ggplot(data = map_data) +
 
 [Wir dürfen sie nicht kaputtmachen, aus nicht versehentlich]::
 
+***
+Hier auch die Frage, dass Demokratie dazu neigen könnte, das EIgentum infrage zu stellen (konfiskatorische Besteuerung, Enteignung. Daher Grundrechte)
+
+***
+
 [Quellen ergänzen]::
 
 Die gegenwärtige Diskussion über die Fragilität der Demokratie zeichnet sich dadurch aus, dass sich die Art und Weise demokratischer Gefährdungen im Vergleich zu früheren historischen Epochen grundlegend gewandelt hat. Während klassische Autokratisierungswellen im 20. Jahrhundert häufig durch gewaltsame Militärputsche, Revolutionen oder plötzliche Regimewechsel gekennzeichnet waren, vollzieht sich die aktuelle Abkehr von der Demokratie meist schleichend und von innen heraus. Demokratisch gewählte Akteure nutzen die Befugnisse ihrer Ämter, um im Wege der schrittweisen Ausweitung der Exekutivmacht liberale Schranken, die Unabhängigkeit der Justiz, freie Medien und zivilgesellschaftliche Kontrollinstanzen systematisch auszuhöhlen. Die globale Regimemessung zeigt, dass sich die Welt seit der Jahrtausendwende in einer dritten Welle der Autokratisierung befindet, in deren Verlauf mehr als zwei Drittel der Weltbevölkerung unter autokratischen Bedingungen leben und selbst gefestigte liberal-demokratische Staaten spürbare Qualitätsverluste aufweisen.
